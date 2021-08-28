@@ -9,5 +9,6 @@ namespace OdeToStudy.Data.Services
     public interface IBooksData
     {
         IEnumerable<Books> GetAll();
+        Books Get(int id);
     }
 }

@@ -99,3 +99,12 @@ C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\System.Me
 C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\System.Numerics.Vectors.xml
 C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\System.Net.Http.Formatting.dll
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\System.Web.Http.dll
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\System.Web.Http.WebHost.dll
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\System.Net.Http.Formatting.xml
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\System.Web.Http.xml
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\System.Web.Http.WebHost.xml
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\Autofac.Integration.WebApi.dll
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\Autofac.Integration.WebApi.pdb
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\Autofac.Integration.WebApi.xml

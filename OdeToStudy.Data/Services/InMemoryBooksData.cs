@@ -18,9 +18,15 @@ namespace OdeToStudy.Data.Services
                 new Books{ID=3, Name="Organic chemistry", Subject=SubjectType.Chemistry},
                 new Books{ID=4, Name="Calculus", Subject=SubjectType.Maths},
                 new Books{ID=5, Name="Verb forms", Subject=SubjectType.English},
-                new Books{ID=1, Name="Newton Laws", Subject=SubjectType.Physics},
+                new Books{ID=6, Name="Newton Laws", Subject=SubjectType.Physics},
             };
         }
+
+        public Books Get(int id)
+        {
+            return MyBooks.FirstOrDefault((r => r.ID == id));
+        }
+
         public IEnumerable<Books> GetAll()
         {
             return MyBooks.OrderBy(r => r.ID);
