@@ -1,0 +1,6 @@
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\bin\Debug\OdeToStudy.Data.dll
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\bin\Debug\OdeToStudy.Data.pdb
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\obj\Debug\OdeToStudy.Data.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\obj\Debug\OdeToStudy.Data.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\obj\Debug\OdeToStudy.Data.dll
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\obj\Debug\OdeToStudy.Data.pdb
