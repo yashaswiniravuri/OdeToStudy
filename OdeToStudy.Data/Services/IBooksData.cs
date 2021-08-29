@@ -13,5 +13,6 @@ namespace OdeToStudy.Data.Services
 
         void Add(Books MyBooks);
         void Update(Books b);
+        void Delete(int id);
     }
 }

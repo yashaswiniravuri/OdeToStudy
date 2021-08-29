@@ -19,8 +19,11 @@ namespace OdeToStudy
             var builder = new ContainerBuilder();
             builder.RegisterControllers(typeof(MvcApplication).Assembly);
             builder.RegisterApiControllers(typeof(MvcApplication).Assembly);
-            builder.RegisterType<InMemoryBooksData>().
-                As<IBooksData>().SingleInstance();
+            builder.RegisterType<SqlBooksData>().
+                As<IBooksData>().
+                 InstancePerRequest();
+            builder.RegisterType<OdeToStudyDbContext>().InstancePerRequest();
+
             var container = builder.Build();
             DependencyResolver.SetResolver(new AutofacDependencyResolver(container));
             httpconfig.DependencyResolver = new AutofacWebApiDependencyResolver(container);

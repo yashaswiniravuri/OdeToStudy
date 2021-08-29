@@ -45,5 +45,14 @@ namespace OdeToStudy.Data.Services
                 data.Subject = b.Subject;
             }
         }
+
+        public void Delete(int id)
+        {
+            var b = Get(id);
+            if (b != null)
+            {
+                MyBooks.Remove(b);
+            }
+        }
     }
 }

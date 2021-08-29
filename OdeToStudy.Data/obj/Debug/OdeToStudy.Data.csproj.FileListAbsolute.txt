@@ -4,3 +4,9 @@ C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\obj\Debu
 C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\obj\Debug\OdeToStudy.Data.csproj.CoreCompileInputs.cache
 C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\obj\Debug\OdeToStudy.Data.dll
 C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\obj\Debug\OdeToStudy.Data.pdb
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\bin\Debug\OdeToStudy.Data.dll.config
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\bin\Debug\EntityFramework.dll
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\bin\Debug\EntityFramework.xml
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\obj\Debug\OdeToStudy.Data.csproj.CopyComplete

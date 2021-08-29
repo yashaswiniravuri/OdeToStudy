@@ -108,3 +108,8 @@ C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\System.We
 C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\Autofac.Integration.WebApi.dll
 C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\Autofac.Integration.WebApi.pdb
 C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\Autofac.Integration.WebApi.xml
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\EntityFramework.dll
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\EntityFramework.SqlServer.dll
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\OdeToStudy.Data.dll.config
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\EntityFramework.xml
+C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy\bin\EntityFramework.SqlServer.xml
