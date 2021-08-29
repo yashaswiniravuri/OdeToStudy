@@ -31,5 +31,19 @@ namespace OdeToStudy.Data.Services
         {
             return MyBooks.OrderBy(r => r.ID);
         }
+        public void Add(Books b)
+        {
+            MyBooks.Add(b);
+            b.ID = MyBooks.Max(r => r.ID)+1;
+        }
+        public void Update(Books b)
+        {
+            var data = Get(b.ID);
+            if(data != null)
+            {
+                data.Name = b.Name;
+                data.Subject = b.Subject;
+            }
+        }
     }
 }

@@ -10,5 +10,8 @@ namespace OdeToStudy.Data.Services
     {
         IEnumerable<Books> GetAll();
         Books Get(int id);
+
+        void Add(Books MyBooks);
+        void Update(Books b);
     }
 }
