@@ -43,6 +43,7 @@ namespace OdeToStudy.Views.Home
             if (ModelState.IsValid)
             {
                 db.Add(MyBooks);
+                TempData["message"] = "Successfully created a book!";
                 return RedirectToAction("Details", new { id = MyBooks.ID});
             }
             return View();
@@ -69,6 +70,7 @@ namespace OdeToStudy.Views.Home
             if (ModelState.IsValid)
             {
                 db.Update(book);
+                TempData["message"] = "You have successfully edited the book!";
                 return RedirectToAction("Details", new { id = book.ID });
             }
             return View(book);
@@ -87,6 +89,7 @@ namespace OdeToStudy.Views.Home
         public ActionResult Delete(int id, FormCollection form)
         {
             db.Delete(id);
+            TempData["message"] = "You have successfully deleted the book!";
             return RedirectToAction("Index");
         }
     }
