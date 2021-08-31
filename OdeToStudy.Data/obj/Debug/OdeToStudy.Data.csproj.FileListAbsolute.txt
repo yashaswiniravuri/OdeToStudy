@@ -10,3 +10,15 @@ C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\bin\Debu
 C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\bin\Debug\EntityFramework.xml
 C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\yasha\OneDrive\Documents\OdeToStudy\OdeToStudy\OdeToStudy.Data\obj\Debug\OdeToStudy.Data.csproj.CopyComplete
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\bin\Debug\OdeToStudy.Data.dll.config
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\bin\Debug\OdeToStudy.Data.dll
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\bin\Debug\OdeToStudy.Data.pdb
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\bin\Debug\EntityFramework.dll
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\bin\Debug\EntityFramework.xml
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\obj\Debug\OdeToStudy.Data.csproj.AssemblyReference.cache
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\obj\Debug\OdeToStudy.Data.csproj.CoreCompileInputs.cache
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\obj\Debug\OdeToStudy.Data.csproj.CopyComplete
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\obj\Debug\OdeToStudy.Data.dll
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\obj\Debug\OdeToStudy.Data.pdb

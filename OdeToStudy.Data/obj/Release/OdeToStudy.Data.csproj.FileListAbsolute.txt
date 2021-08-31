@@ -1,0 +1,12 @@
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\bin\Release\OdeToStudy.Data.dll.config
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\bin\Release\OdeToStudy.Data.dll
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\bin\Release\OdeToStudy.Data.pdb
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\bin\Release\EntityFramework.dll
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\bin\Release\EntityFramework.xml
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\obj\Release\OdeToStudy.Data.csproj.AssemblyReference.cache
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\obj\Release\OdeToStudy.Data.csproj.CoreCompileInputs.cache
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\obj\Release\OdeToStudy.Data.csproj.CopyComplete
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\obj\Release\OdeToStudy.Data.dll
+C:\Users\Yashaswini Ravuri\Source\Repos\yashaswiniravuri\OdeToStudy\OdeToStudy.Data\obj\Release\OdeToStudy.Data.pdb

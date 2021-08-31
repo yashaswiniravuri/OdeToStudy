@@ -1,0 +1,15 @@
+﻿@model IEnumerable<OdeToStudy.Data.Models.Books>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@foreach(var item in Model)
+{
+    @Html.Partial("BookSummary",item)
+}
